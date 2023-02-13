@@ -10,4 +10,4 @@ Trace.Listeners.Add(new TextWriterTraceListener(
 Trace.AutoFlush = true;
 
 Debug.WriteLine("Typ Debug mówi, że już jest gotowy.");
-Trace.WriteLine("Typ Trace mówi, że już jest gotowy.");Working with protocols
+Trace.WriteLine("Typ Trace mówi, że już jest gotowy.");
