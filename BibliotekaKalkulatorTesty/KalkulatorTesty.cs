@@ -6,7 +6,7 @@ namespace BibliotekaKalkulatorTesty;
 public class KalkulatorTesty
 {
     [Fact]
-    public void Test_doda_2_i_2()
+    public void Test_dodaj_2_i_2()
     {
         //arrange
 
