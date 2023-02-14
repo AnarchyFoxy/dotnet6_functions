@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulatorBiblioteka", "Kal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotekaObsługiWyjatkow", "BibliotekaObsługiWyjatkow\BibliotekaObsługiWyjatkow.csproj", "{BF8E8A88-2E1E-4395-88F7-DDFD63CCFAC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObsługaWyjatkow", "ObsługaWyjatkow\ObsługaWyjatkow.csproj", "{B6F14B23-2ED9-45F6-9001-44F163668002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BF8E8A88-2E1E-4395-88F7-DDFD63CCFAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF8E8A88-2E1E-4395-88F7-DDFD63CCFAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF8E8A88-2E1E-4395-88F7-DDFD63CCFAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F14B23-2ED9-45F6-9001-44F163668002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F14B23-2ED9-45F6-9001-44F163668002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F14B23-2ED9-45F6-9001-44F163668002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F14B23-2ED9-45F6-9001-44F163668002}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
