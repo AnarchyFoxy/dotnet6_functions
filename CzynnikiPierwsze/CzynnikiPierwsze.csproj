@@ -7,7 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\BibliotekaObsługiWyjatkow\BibliotekaObsługiWyjatkow.csproj" />
-  </ItemGroup>
 </Project>
